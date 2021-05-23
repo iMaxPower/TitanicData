@@ -1,1 +1,2 @@
-# titanic-practice
+# Titanic
+Sample Data: Titanic Survival
